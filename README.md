@@ -25,3 +25,14 @@ https://www.mediafire.com/file/0h3gv27tlzfl5sh/test+client.zip/file
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
 do not download from any other link apart from the link above to be safe.
 
+
+How to use
+Hosting
+user 1 click host.
+people join user 1.
+after all joined user 1.
+user 1 press send server to all.
+and all users joined user 1 will be joined in same server.
+you will get a windows slide pop up do not click yes or no just ignore it click mouse in middle of screen.
+
+all start game manually.
