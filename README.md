@@ -26,13 +26,13 @@ guys am new to guthub and filesize is big to uplaod it here in repo so uploaded 
 do not download from any other link apart from the link above to be safe.
 
 
-How to use
-Hosting
-user 1 click host.
-people join user 1.
-after all joined user 1.
-user 1 press send server to all.
-and all users joined user 1 will be joined in same server.
-you will get a windows slide pop up do not click yes or no just ignore it click mouse in middle of screen.
+How to use<br/>
+Hosting<br/>
+user 1 click host.<br/>
+people join user 1.<br/>
+after all joined user 1.<br/>
+user 1 press send server to all.<br/>
+and all users joined user 1 will be joined in same server.<br/>
+you will get a windows slide pop up do not click yes or no just ignore it click mouse in middle of screen.<br/>
 
 all start game manually.
