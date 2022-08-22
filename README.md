@@ -9,8 +9,8 @@ Install<br/>
 1 VB6 Runtime Plus 2.2.exe<br/>
 2:ZeroTier One.msi<br/>
 3:MicrosoftEdgeWebView2RuntimeInstallerX86.exe<br/>
-
-4 go in newfolder / RegTool.exe open it click register and select all files in newfolder.<br/>
+4:WinIPBroadcast-1.6.exe
+5 go in newfolder / RegTool.exe open it click register and select all files in newfolder.<br/>
 
 open client and login.
 server has been put up on vps server so you just login and join any people.
@@ -25,7 +25,7 @@ in final release it will be all ok.
 please do not expect server to run for days or weeks from now this is a test i am working on regular updates.
 
 download the zip file
-[https://www.mediafire.com/file/dqtuqjq04apb17h/client.zip/file](https://www.mediafire.com/file/dqtuqjq04apb17h/client.zip/file)
+
 
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
 do not download from any other link apart from the link above to be safe.
