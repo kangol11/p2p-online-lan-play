@@ -35,3 +35,10 @@ and all users joined user 1 will be joined in same server.<br/>
 you will get a windows slide pop up do not click yes or no just ignore it click mouse in middle of screen.<br/>
 
 all start game manually.
+
+​
+
+28
+
+## Clients
+1: people login find servers join thats it
