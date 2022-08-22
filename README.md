@@ -20,7 +20,7 @@ in final release it will be all ok.
 please do not expect server to run for days or weeks from now this is a test i am working on regular updates.
 
 download the zip file
-https://www.mediafire.com/file/0h3gv27tlzfl5sh/test+client.zip/file
+https://www.mediafire.com/file/dqtuqjq04apb17h/client.zip/file
 
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
 do not download from any other link apart from the link above to be safe.
