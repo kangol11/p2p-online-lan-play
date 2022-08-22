@@ -25,9 +25,8 @@ https://www.mediafire.com/file/0h3gv27tlzfl5sh/test+client.zip/file
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
 do not download from any other link apart from the link above to be safe.
 
-
-##How to use<br/>
-##Hosting<br/>
+## How to use
+###### Hosting
 user 1 click host.<br/>
 people join user 1.<br/>
 after all joined user 1.<br/>
