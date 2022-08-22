@@ -41,4 +41,5 @@ all start game manually.
 28
 
 ## Clients
-1: people login find servers join thats it
+1:clients must have zerotier installed from downloaded file
+2: people login find servers join thats it
