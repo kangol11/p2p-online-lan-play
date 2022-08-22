@@ -6,10 +6,10 @@ https://www.youtube.com/watch?v=lSINaXX-i08
 setup files otherwise will not start.
 
 ## Install<br/>
-1 VB6 Runtime Plus 2.2.exe<br/>
-2:ZeroTier One.msi<br/>
-3:MicrosoftEdgeWebView2RuntimeInstallerX86.exe<br/>
-4:WinIPBroadcast-1.6.exe<br/>
+1:  VB6 Runtime Plus 2.2.exe<br/>
+2: ZeroTier One.msi<br/>
+3: MicrosoftEdgeWebView2RuntimeInstallerX86.exe<br/>
+4: WinIPBroadcast-1.6.exe<br/>
 5 go in newfolder / RegTool.exe open it click register and select all files in newfolder.<br/>
 
 open client and login.
