@@ -26,8 +26,8 @@ guys am new to guthub and filesize is big to uplaod it here in repo so uploaded 
 do not download from any other link apart from the link above to be safe.
 
 
-How to use<br/>
-Hosting<br/>
+##How to use<br/>
+##Hosting<br/>
 user 1 click host.<br/>
 people join user 1.<br/>
 after all joined user 1.<br/>
