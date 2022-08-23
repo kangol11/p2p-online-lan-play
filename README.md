@@ -48,3 +48,6 @@ all start game manually.
 ## Clients
 1:clients must have zerotier installed from downloaded file<br/>
 2: people login find servers join thats it
+
+## Release<br/>
+https://github.com/kangol11/p2p-online-lan-play/releases/tag/v1
