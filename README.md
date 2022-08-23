@@ -25,7 +25,8 @@ in final release it will be all ok.
 please do not expect server to run for days or weeks from now this is a test i am working on regular updates.
 
 download the zip file<br/>
-https://www.mediafire.com/file/m2k47f20fjcmhyf/client.zip/file
+https://www.mediafire.com/file/m2k47f20fjcmhyf/client.zip/file<br>
+Hash for .exe 0862AFD63CDBF67EA3E3CEFAF826F106158C2600B3DE1500D69DCFB63EF1C862
 
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
 do not download from any other link apart from the link above to be safe.
