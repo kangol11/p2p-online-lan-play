@@ -3,14 +3,10 @@ youtube video
 https://www.youtube.com/watch?v=lSINaXX-i08
 [![IMAGE ALT TEXT HERE](https://i1.ytimg.com/vi/lSINaXX-i08/hqdefault.jpg)](https://www.youtube.com/watch?v=lSINaXX-i08)
 
-setup files otherwise will not start.
 
-## Install<br/>
-1:  VB6 Runtime Plus 2.2.exe<br/>
-2: ZeroTier One.msi<br/>
-3: MicrosoftEdgeWebView2RuntimeInstallerX86.exe<br/>
-4: WinIPBroadcast-1.6.exe<br/>
-5 go in newfolder / RegTool.exe open it click register and select all files in newfolder.<br/>
+setup files otherwise will not start.
+check our main website for more details.
+we have put up a new webpage now at https://play-cracked-games-online.com
 
 open client and login.
 server has been put up on vps server so you just login and join any people.
@@ -25,7 +21,7 @@ in final release it will be all ok.
 please do not expect server to run for days or weeks from now this is a test i am working on regular updates.
 
 download the zip file<br/>
-https://www.mediafire.com/file/m2k47f20fjcmhyf/client.zip/file<br>
+https://drive.google.com/file/d/1We97wdIPWHETn7oQnPSuxFgZ2sjLgHuF/view?usp=sharing<br>
 Hash for .exe 0862AFD63CDBF67EA3E3CEFAF826F106158C2600B3DE1500D69DCFB63EF1C862
 
 guys am new to guthub and filesize is big to uplaod it here in repo so uploaded on mediafire.
